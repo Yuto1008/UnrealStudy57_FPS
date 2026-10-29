@@ -1,3 +1,5 @@
-2026/10/08-09:35:36.206 1248 Reusing MANIFEST C:\Users\ktc\Documents\UnrealStudy57_FPS\Study57_FPS\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/10/08-09:35:36.207 1248 Recovering log #3
-2026/10/08-09:35:36.207 1248 Reusing old log C:\Users\ktc\Documents\UnrealStudy57_FPS\Study57_FPS\Saved\webcache_6613\Default\Site Characteristics Database/000003.log 
+2026/10/29-09:41:58.736 47e8 Log #3: 4 ops saved to Table #4 OK
+2026/10/29-09:41:58.749 47e8 Archiving C:\Users\ktc\Documents\UnrealStudy57_FPS\Study57_FPS\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
+2026/10/29-09:41:58.750 47e8 Table #4: 4 entries OK
+2026/10/29-09:41:58.751 47e8 Archiving C:\Users\ktc\Documents\UnrealStudy57_FPS\Study57_FPS\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/10/29-09:41:58.754 47e8 **** Repaired leveldb C:\Users\ktc\Documents\UnrealStudy57_FPS\Study57_FPS\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 236 bytes. Some data may have been lost. ****
