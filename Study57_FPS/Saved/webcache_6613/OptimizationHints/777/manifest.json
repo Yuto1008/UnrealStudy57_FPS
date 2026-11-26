@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Optimization Hints",
+<<<<<<<< HEAD:Study57_FPS/Saved/webcache_6613/OptimizationHints/785/manifest.json
+  "version": "785",
+========
+  "version": "777",
+>>>>>>>> f978e5734795947fa6705768029dd979120c6410:Study57_FPS/Saved/webcache_6613/OptimizationHints/777/manifest.json
+  "ruleset_format": "1.0.0"
+}

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [11804:2980:1126/094430.458:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
 [11804:24280:1126/094430.627:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
 [11804:2980:1126/094430.700:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
@@ -10,3 +11,15 @@
 [10676:17808:1126/094435.468:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-14E3DEE846092A25B95A55F3A4321B22 will be ignored
 [11804:6792:1126/094439.655:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Documents\UnrealStudy57_FPS\Study57_FPS\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\ktc\Documents\UnrealStudy57_FPS\Study57_FPS\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [11804:2980:1126/094740.617:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+=======
+[23520:4348:1112/094636.557:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[23520:4348:1112/094636.643:ERROR:os_crypt_win.cc(100)] Failed to decrypt: 指定された状態で使用するには無効なキーです。 (0x8009000B)
+[23520:19460:1112/094636.722:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[23520:4348:1112/094636.787:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19700:19872:1112/094641.691:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-EED7827CAD79EE73832B34DE76A49282 will be ignored
+[23520:4348:1112/094653.162:ERROR:usb_descriptors.cc(146)] Failed to read length for configuration 0.
+[23520:4348:1112/094653.162:ERROR:usb_descriptors.cc(105)] Failed to read all configuration descriptors. Expected 1, got 0.
+[23520:4348:1112/094653.162:ERROR:device_event_log_impl.cc(196)] [09:46:53.162] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_0316#20120501030900000#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[23520:4348:1112/094653.497:ERROR:extension_registrar.cc(549)] Failed to unregister service worker for extension efaidnbmnnnibpcajpcglclefindmkaj
+[23520:4348:1112/123442.761:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+>>>>>>> f978e5734795947fa6705768029dd979120c6410

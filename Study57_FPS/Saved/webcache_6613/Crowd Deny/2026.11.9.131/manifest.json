@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Crowd Deny",
+  "preload_data_format": 1,
+<<<<<<<< HEAD:Study57_FPS/Saved/webcache_6613/Crowd Deny/2026.11.23.125/manifest.json
+  "version": "2026.11.23.125"
+========
+  "version": "2026.11.9.131"
+>>>>>>>> f978e5734795947fa6705768029dd979120c6410:Study57_FPS/Saved/webcache_6613/Crowd Deny/2026.11.9.131/manifest.json
+}
